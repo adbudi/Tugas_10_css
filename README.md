@@ -1,3 +1,3 @@
 # Tugas_10_css
 Gradient.
-![tugas10](tugas10.png)
+![tugas10](gbr/tugas10.png)
